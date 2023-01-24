@@ -63,9 +63,11 @@
               <em>International Conference on Learning Representations (ICLR)</em>, 2023
               <br>
               <p>
-                In this paper, we propose BALanCe, a Bayesian deep active learning framework that mitigates the effect of such biases. 
-                Concretely, BALanCe employs a novel acquisition function which leverages the structure captured by equivalence hypothesis classes and facilitates differentiation among different equivalence classes. 
-                Besides the fully sequential setting, we further propose Batch-BALanCe -- a generalization of the sequential algorithm to the batched setting -- to efficiently select batches of training examples that are jointly effective for model improvement. 
+        	Active learning has demonstrated data efficiency in many fields. 
+		Existing active learning algorithms, especially in the context of batch-mode deep Bayesian active models, rely heavily on the quality of uncertainty estimations of the model, and are often challenging to scale to large batches. 
+		In this paper, we propose Batch-BALanCe, a scalable batch-mode active learning algorithm, which combines insights from decision-theoretic active learning, combinatorial information measure, and diversity sampling. 
+		At its core, Batch-BALanCe relies on a novel decision-theoretic acquisition function that facilitates differentiation among different equivalence classes. 
+		Intuitively, each equivalence class consists of hypotheses (e.g., posterior samples of deep neural networks) with similar predictions, and Batch-BALanCe adaptively adjusts the size of the equivalence classes as learning progresses. 
               </p>
             </td>
           </tr>

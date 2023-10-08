@@ -1,11 +1,11 @@
 ---
 title: "Scalable Batch-Mode Deep Bayesian Active Learning via Equivalence Class Annealing"
 collection: publications
-permalink: 'https://arxiv.org/abs/2112.13737'
+permalink: '/publication/balance'
 excerpt: 'Deep Bayesian Active Learning'
 venue: 'The 12th International Conference on Learning Representations (ICLR)'
 date: 2023-1-20
-paperurl: 'https://arxiv.org/abs/2112.13737'
+paperurl: 'http://zhangrenyuuchicago.github.io/files/balance.pdf'
 citation: 'Zhang, Renyu, et al. "Scalable Batch-Mode Deep Bayesian Active Learning via Equivalence Class Annealing." arXiv preprint arXiv:2112.13737 (2021).'
 
 ---

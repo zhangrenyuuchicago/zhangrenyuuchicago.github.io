@@ -1,6 +1,6 @@
 ---
 title: "Enhancing Instance-Level Image Classification with Set-Level Labels"
-collection: publications
+collection: None
 permalink: None
 excerpt: 'Set-level Coarse-grained Labels; Instance-level Labels; Excess Risk'
 date: 2023-9-9

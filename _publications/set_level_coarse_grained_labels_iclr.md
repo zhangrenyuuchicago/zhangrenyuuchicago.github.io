@@ -2,7 +2,7 @@
 title: "Enhancing Instance-Level Image Classification with Set-Level Labels"
 excerpt: 'Set-level Coarse-grained Labels; Instance-level Labels; Excess Risk'
 date: 2024-1-15
-venue: The Twelfth International Conference on Learning Representations (ICLR)'
+venue: 'The Twelfth International Conference on Learning Representations (ICLR)'
 paperurl: 'https://arxiv.org/abs/2311.05659'
 citation: 'Zhang, Renyu, Aly A. Khan, Yuxin Chen, and Robert L. Grossman. "Enhancing Instance-Level Image Classification with Set-Level Labels." arXiv preprint arXiv:2311.05659 (2023).'
 ---

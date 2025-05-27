@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Renyu Zhang"
   avatar           : "profile.JPG"
-  bio              : "final-year PhD at the University of Chicago"
+  bio              : "Research engineer in KLA"
   location         : "Chicago"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=-4Hr3l0AAAAJ&hl=en&authuser=1"
+  googlescholar    : "https://scholar.google.com/citations?user=IpaGZqkAAAAJ&hl=en&authuser=1"
   email            : "zhangr@uchicago.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
